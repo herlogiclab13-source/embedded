@@ -1,6 +1,6 @@
-# Embedded Software Learning
+# Embedded Learning
 
-My hands-on journey toward becoming an Embedded Software Engineer.
+My hands-on journey toward becoming an Embedded Developer.
 
 ## Learning roadmap
 
